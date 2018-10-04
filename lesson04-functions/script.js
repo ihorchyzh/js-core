@@ -13,7 +13,7 @@ function sum(paramOne, paramTwo) {
 
 
 // set one
-var foo = doSomething(2, 2, sum); // 96
+var foo = doSomething(2, 2, sum); // 50
 
 // set two
 var bar = doSomething(3, 2, function(paramOne, paramTwo) {
